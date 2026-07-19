@@ -6,7 +6,7 @@
 [![Tests](https://img.shields.io/badge/tests-24%20passing-brightgreen)](#run-tests)
 [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
-A production-structured **Streamlit application** that classifies text into one of seven emotions using a fine-tuned transformer model. Built with a layered architecture, typed exception handling, and full unit test coverage — the kind of codebase a real product team would expect to see in a code review, not a single-file notebook demo.
+A production-structured **Streamlit application** that classifies text into one of seven emotions using a fine-tuned transformer model. Built with a layered architecture, typed exception handling, and full unit test coverage - the kind of codebase a real product team would expect to see in a code review, not a single-file notebook demo.
 
 **Live demo:** _add Streamlit Community Cloud link here once deployed_
 
