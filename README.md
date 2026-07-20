@@ -28,7 +28,7 @@ It started as a 40-line proof-of-concept script and was refactored into a layere
 
 ## Key Features
 
-- **Single-text analysis** — enter any sentence and get the top predicted emotion plus a full confidence breakdown as an interactive bar chart
+- **Single-text analysis** - enter any sentence and get the top predicted emotion plus a full confidence breakdown as an interactive bar chart
 - **Batch analysis via CSV upload** — classify up to 200 rows at once (e.g. reviews, survey responses, support tickets) and export results as CSV
 - **Low-confidence flagging** — surfaces uncertainty instead of presenting a weak prediction as a confident answer
 - **Session history** — tracks every analysis run within the current session
