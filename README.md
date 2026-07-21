@@ -41,7 +41,7 @@ The app is split into focused, independently testable layers rather than one mon
 
 ```
 emotion-ai-classifier/
-├── app.py                        # Streamlit UI only — layout, input, rendering
+├── app.py                        # Streamlit UI only - layout, input, rendering
 ├── core/
 │   ├── config.py                 # Model settings, thresholds, emotion → color/emoji maps
 │   ├── engine.py                 # EmotionEngine: model loading + inference, typed exceptions
