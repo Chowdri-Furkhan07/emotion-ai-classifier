@@ -65,7 +65,7 @@ emotion-ai-classifier/
 ## Design Decisions
 
 - **Validate before inference** - empty or oversized text never reaches the model; the user gets a clear message instead of a crash or a hang
-- **Typed exceptions over raw tracebacks** — model load failures and inference errors are caught and surfaced as readable messages
+- **Typed exceptions over raw tracebacks** - model load failures and inference errors are caught and surfaced as readable messages
 - **Confidence shown as a sorted bar chart**, not a list of raw scores, so it's easy to see at a glance which emotions the model considered plausible and by how much
 - **Low-confidence flagging** built into the UI so uncertain predictions are never presented as fact
 - **Batch mode designed for realistic use** — a single text box is a demo; CSV upload with downloadable results reflects how this would actually be used to triage reviews or support tickets
