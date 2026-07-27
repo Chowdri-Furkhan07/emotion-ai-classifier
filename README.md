@@ -28,6 +28,7 @@ It started as a 40-line proof-of-concept script and was refactored into a layere
 
 ---
 
+
 ## Key Features
 
 - **Single-text analysis** - enter any sentence and get the top predicted emotion plus a full confidence breakdown as an interactive bar chart
