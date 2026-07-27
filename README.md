@@ -82,6 +82,9 @@ emotion-ai-classifier/
 - **Low-confidence flagging** built into the UI so uncertain predictions are never presented as fact
 - **Batch mode designed for realistic use** - a single text box is a demo; CSV upload with downloadable results reflects how this would actually be used to triage reviews or support tickets
 
+---
+
+
 ## Tech Stack
 
 | Layer | Choice |
