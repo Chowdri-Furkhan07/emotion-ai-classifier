@@ -62,6 +62,9 @@ emotion-ai-classifier/
 └── requirements-dev.txt
 ```
 
+---
+
+
 **Why this structure?**
 
 - `core/engine.py` never imports `streamlit`, so it can be unit-tested with a mocked model in milliseconds
