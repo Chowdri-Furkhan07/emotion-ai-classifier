@@ -71,6 +71,9 @@ emotion-ai-classifier/
 - `core/utils.py` has zero dependency on Streamlit or transformers - pure functions in, pure values out
 - `app.py` contains no bare `try/except` blocks - it only ever catches the typed `ValidationError`, `InferenceError`, and `ModelLoadError` raised by the lower layers
 
+---
+
+
 ## Design Decisions
 
 - **Validate before inference** - empty or oversized text never reaches the model; the user gets a clear message instead of a crash or a hang
