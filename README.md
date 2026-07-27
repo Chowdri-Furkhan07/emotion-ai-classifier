@@ -37,6 +37,9 @@ It started as a 40-line proof-of-concept script and was refactored into a layere
 - **Graceful error handling** - model load failures, oversized input, and malformed CSVs are caught and shown as clear user-facing messages, not raw stack traces
 - **24 unit tests** covering validation, formatting, and the inference engine, using a mocked model so the suite runs without GPU access or a model download
 
+---
+
+
 ## Architecture
 
 The app is split into focused, independently testable layers rather than one monolithic script:
