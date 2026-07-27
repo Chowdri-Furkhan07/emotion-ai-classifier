@@ -26,6 +26,8 @@ The app classifies free-text input into one of seven emotions - **joy, sadness, 
 
 It started as a 40-line proof-of-concept script and was refactored into a layered architecture with input validation, typed error handling, unit tests, and batch processing support - demonstrating not just model usage but sound software engineering practice around an ML component.
 
+---
+
 ## Key Features
 
 - **Single-text analysis** - enter any sentence and get the top predicted emotion plus a full confidence breakdown as an interactive bar chart
