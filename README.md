@@ -162,6 +162,8 @@ Results (top emotion + confidence per row) can be downloaded directly from the a
 - [ ] Sentence-level breakdown for multi-sentence input
 - [ ] Streamlit Community Cloud deployment with live demo link
 
+---
+
 ## License
 
 Released under the [MIT License](LICENSE).
