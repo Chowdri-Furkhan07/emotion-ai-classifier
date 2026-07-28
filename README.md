@@ -98,6 +98,8 @@ emotion-ai-classifier/
 | CI | GitHub Actions |
 | Deployment | Docker |
 
+---
+
 ## Getting Started
 
 ### Prerequisites
