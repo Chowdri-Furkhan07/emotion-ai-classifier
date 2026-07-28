@@ -166,6 +166,8 @@ Results (top emotion + confidence per row) can be downloaded directly from the a
 
 Released under the [MIT License](LICENSE).
 
+---
+
 ## Author
 
 **Chowdri Furkhan**
